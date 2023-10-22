@@ -5,4 +5,4 @@ Brand name: Stride
 Category: Sneakers brand
 Target Audience: All (Men, Women, Kids)
 Email: stridewithpride001@gmail.com
-Logo Theme : A designed Sneaker with a tagline - Purple theme
+Logo Theme : A designed Sneaker with a tagline - Purple theme 
